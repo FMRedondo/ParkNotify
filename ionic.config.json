@@ -1,0 +1,7 @@
+{
+  "name": "ParkNotify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
